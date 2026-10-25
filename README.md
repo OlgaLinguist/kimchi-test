@@ -2,8 +2,8 @@
 
 A tiny sample project for trying autonomous coding sessions (Kimchi Remote Workspaces vs Claude Code cloud).
 
-- `src/users.js` — create and find users (no input validation yet)
-- `src/orders.js` — create orders for users (minimal error handling)
+- `src/creators.js` — add and find creators (no input validation yet)
+- `src/campaigns.js` — brand campaigns and creator deals (minimal error handling)
 
 Run the tests:
 
